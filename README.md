@@ -13,6 +13,7 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 ## MCP Servers
 - [Solana Agent Kit MCP Server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - A Solana Agent Kit implementation using MCP for handling protocol operations on the Solana blockchain. Supports all Solana Agent Kit actions with standardized interactions and environment-based configuration.
 - [GOAT MCP Server](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - A GOAT SDK implementation enabling Claude Desktop to send and receive ETH and ERC-20 tokens on EVM networks. Features Base Sepolia support and easy Claude Desktop integration.
+- [Aldrin Labs Solana MCP Server](https://github.com/Aldrin-labs/solana-mcp-server) - A comprehensive MCP server providing 21 essential Solana RPC methods including account operations, token management, system information, and staking functionality. Features natural language interaction with Solana blockchain data.
 
 ## Tools and Libraries
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - A toolkit for connecting AI agents to Solana protocols. Features cross-chain operations, token management, Voltr vault interactions, and multi-agent system support with LangGraph.
