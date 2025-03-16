@@ -23,6 +23,8 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [Solana DeFi Analytics MCP Server](https://github.com/kirtiraj22/solana-mcp) - A MCP Server that offers comprehensive analytics and actionable insights for Solana wallets and DeFi interactions. It enables AI agents and users to deeply analyze wallet behavior, monitor transactions, and optimize DeFi strategies efficiently on the Solana blockchain.
 - [Quant72 MCP](https://github.com/quant72/quant72-mcp) - 🚀 An all-in-one on-chain quantitative trading expert with multiple market data sources and advanced analytical tools. Facilitates efficient on-chain trading with AI assistance, seamlessly integrates all Solana Agent Kit operations, and provides traders with a professional-grade on-chain quantitative trading experience.
 - [spice MCP Server](https://github.com/getnimbus/spice) - spice is a MCP server that implements a Solana data query system. It allows users to fetch Solana catalog metadata, and provides tools for querying Solana blockchain data via Flipside API.
+- [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - A MCP server that implements a Solana security analysis system. It allows users to scan wallets for threats, detect suspicious programs, and provides tools for monitoring blockchain activity via @solana/web3.js.
+
 
 ## Tools and Libraries
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - A toolkit for connecting AI agents to Solana protocols. Features cross-chain operations, token management, Voltr vault interactions, and multi-agent system support with LangGraph.
