@@ -15,6 +15,7 @@
 - [GOAT MCP Server](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - GOAT SDK 实现，使 Claude Desktop 能够在 EVM 网络上发送和接收 ETH 和 ERC-20 代币。支持 Base Sepolia 网络，易于与 Claude Desktop 集成。
 - [Aldrin Labs Solana MCP Server](https://github.com/Aldrin-labs/solana-mcp-server) - 一个全面的 MCP 服务器，提供 21 种基本的 Solana RPC 方法，包括账户操作、代币管理、系统信息和质押功能。支持与 Solana 区块链数据的自然语言交互。
 - [daoCLI MCP 服务器](https://github.com/DaoCLI/daoCLI-init) - daoCLI 是一个兼容 MCP 的 DAO 服务器，支持通过命令行界面进行无缝、可定制的 DAO 部署。它使 AI 代理开发者能够轻松地将基于 Solana 的 DAO 直接嵌入到应用程序中，利用经过验证的联合曲线和自动做市商（AMM）为 AI 代理解锁价值十亿美元的流动性市场。
+- [Hubble MCP Server](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble 是一个基于 Solana 的 MCP 服务器，能够通过自然语言对 PumpFun 和去中心化交易所（DEXs）上的交易进行数据分析和可视化。
 - [Quant72 MCP](https://github.com/quant72/quant72-mcp) - 🚀 简单易用的一站式链上量化交易专家，内置多种行情数据源和高级分析工具。通过 AI 智能辅助进行高效链上交易，无缝集成所有 Solana Agent Kit 操作，为交易者提供专业级的链上量化交易体验。
 
 ## 工具和库
